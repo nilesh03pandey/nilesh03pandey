@@ -29,8 +29,5 @@ Welcome to my GitHub profile. I’m a software engineer with a focus on AI, mach
 - **Data Science: Transformers and Natural Language Processing** - Udemy
 - **Bits and Bytes of Networking** - Shounak Saha (Coursera)
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true)
-
 ## 🌱 Let's Connect
 - [LinkedIn](linkedin.com/in/nilesh-pandey-ai-sec/)
