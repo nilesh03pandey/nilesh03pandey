@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Nilesh Pandey! 👋
 
-<!--
-**nilesh13github/nilesh13github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I’m a software engineer with a focus on AI, machine learning, and distributed systems.
 
-Here are some ideas to get you started:
+## 🚀 Technical Skills
+- **Programming & Databases**: Python, Rust, C++, Java, SQL, MySQL, PostgreSQL, MongoDB, VectorDB, ChromaDB
+- **Analytics & Visualization**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Tableau (basic), Power BI (basic)
+- **Machine Learning & AI**: Deep Learning, NLP, Transformers, LLMs, GANs, Reinforcement Learning, Forecasting Models, Statistical Analysis, Hypothesis Testing
+- **Frameworks & Tools**: TensorFlow, PyTorch, Keras, FastAI, Flask, FastAPI, Streamlit, LangChain, SentenceTransformers, Hugging Face, vLLM, AirLLM
+- **Big Data & Processing**: PySpark, batch processing, vector search
+- **Networking**: HTTP, HTTPS, REST APIs, Flask, FastAPI, client-server architecture, TCP/IP
+- **Operating Systems**: Linux, Windows
+- **Tools & Platforms**: Git, GitHub, Hugging Face, Google Cloud, AWS
+- **Soft Skills**: Documentation, teamwork, project planning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Recent Projects
+### [Twitter-Based Mental Health Crisis Detection]
+- Developed a distributed NLP pipeline to collect 42M+ tweets, analyze, and visualize data across multiple stages (data collection with Selenium, NLTK, RegEx, sentiment classification, visualization with Plotly).
+  
+### [AI-Based Symptom Detector]
+- Architected an AI system using a fine-tuned Mistral-7 B-Instruct LLM combined with FAISS vector search and embedding pipelines (Sentence Transformers), deployed on cloud infrastructure.
+
+### [Web-Based Facial Authentication with Anti-Spoofing System]
+- Developed a facial authentication system using TensorFlow, OpenCV, and MediaPipe for secure logins, achieving over 97% recognition accuracy.
+
+## 🎓 Certifications
+- **Certified Ethical Hacker (CEHv12)** - EC-Council (Certification Number: ECC9680215374)
+- **Generative AI** - IBM
+- **Data Science: Transformers and Natural Language Processing** - Udemy
+- **Bits and Bytes of Networking** - Shounak Saha (Coursera)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true)
+
+## 🌱 Let's Connect
+- [LinkedIn](linkedin.com/in/nilesh-pandey-ai-sec/)
