@@ -34,4 +34,4 @@ I’m a software engineer with a focus on AI, machine learning, distributed syst
 
 
 ## 🌱 Let's Connect
-- [LinkedIn](linkedin.com/in/nilesh-pandey-ai-sec/)
+- [LinkedIn](https://linkedin.com/in/nilesh-pandey-ai-sec/)
