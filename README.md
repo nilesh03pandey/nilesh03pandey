@@ -24,7 +24,7 @@ Welcome to my GitHub profile. I’m a software engineer with a focus on AI, mach
 - Developed a facial authentication system using TensorFlow, OpenCV, and MediaPipe for secure logins, achieving over 97% recognition accuracy.
 
 ## 🎓 Certifications
-- **Certified Ethical Hacker (CEHv12)** - EC-Council (Certification Number: ECC9680215374)
+- **Certified Ethical Hacker (CEHv12)** - EC-Council
 - **Generative AI** - IBM
 - **Data Science: Transformers and Natural Language Processing** - Udemy
 - **Bits and Bytes of Networking** - Shounak Saha (Coursera)
