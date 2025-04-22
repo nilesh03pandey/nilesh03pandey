@@ -1,6 +1,6 @@
-# Hi, I'm Nilesh Pandey! 👋
+# Hi, I'm Nilesh Pandey! 
 
-Welcome to my GitHub profile. I’m a software engineer with a focus on AI, machine learning, and distributed systems.
+I’m a software engineer with a focus on AI, machine learning, distributed systems, and cybersecurity.
 
 ## 🚀 Technical Skills
 - **Programming & Databases**: Python, Rust, C++, Java, SQL, MySQL, PostgreSQL, MongoDB, VectorDB, ChromaDB
