@@ -1,6 +1,7 @@
 
-  ![spider-man](https://github.com/user-attachments/assets/6efd83f8-ad26-43b7-b6f3-f1f16857ca78)
-##In a web of data and deception...
+![spider-man](https://github.com/user-attachments/assets/6efd83f8-ad26-43b7-b6f3-f1f16857ca78)
+
+## In a web of data and deception...
 
 
 # Hi, I'm Nilesh Pandey!
