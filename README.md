@@ -1,5 +1,4 @@
-![spider-man](https://github.com/user-attachments/assets/41b6507c-af96-4210-8bd5-bc41dcb2b0de)# Hi, I'm Nilesh Pandey! [Uploading spider-man.gif…]()
-c5)
+## Hi, I'm Nilesh Pandey! 
 
 
 I’m a software engineer with a focus on AI, machine learning, distributed systems, and cybersecurity.
