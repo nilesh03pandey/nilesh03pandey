@@ -1,7 +1,9 @@
-#>In a web of data and deception...
-# Hi, I'm Nilesh Pandey!  ![spider-man](https://github.com/user-attachments/assets/6efd83f8-ad26-43b7-b6f3-f1f16857ca78)
+
+  ![spider-man](https://github.com/user-attachments/assets/6efd83f8-ad26-43b7-b6f3-f1f16857ca78)
+##In a web of data and deception...
 
 
+# Hi, I'm Nilesh Pandey!
 
 I’m a software engineer with a focus on AI, machine learning, distributed systems, and cybersecurity.
 
