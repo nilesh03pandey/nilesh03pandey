@@ -1,4 +1,4 @@
-# Hi, I'm Nilesh Pandey! ![WhatsApp Image 2025-04-23 at 10 39 22 PM](https://github.com/user-attachments/assets/53fdaf64-1a9b-4dab-91fa-ac371358bc01)
+# Hi, I'm Nilesh Pandey! ![custom_spiderman_pixel](https://github.com/user-attachments/assets/3feb4299-a37f-489d-8755-cee45caf97c5)
 
 
 I’m a software engineer with a focus on AI, machine learning, distributed systems, and cybersecurity.
