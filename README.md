@@ -1,4 +1,5 @@
-# Hi, I'm Nilesh Pandey! ![custom_spiderman_pixel](https://github.com/user-attachments/assets/3feb4299-a37f-489d-8755-cee45caf97c5)
+![spider-man](https://github.com/user-attachments/assets/41b6507c-af96-4210-8bd5-bc41dcb2b0de)# Hi, I'm Nilesh Pandey! [Uploading spider-man.gif…]()
+c5)
 
 
 I’m a software engineer with a focus on AI, machine learning, distributed systems, and cybersecurity.
