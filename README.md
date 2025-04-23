@@ -14,7 +14,7 @@ I’m a software engineer with a focus on AI, machine learning, distributed syst
 - **Soft Skills**: Documentation, teamwork, project planning
 
 ## 📝 Recent Projects
-### [Twitter-Based Mental Health Crisis Detection]
+### [Twitter-Based Mental Health Crisis Detection](https://github.com/nilesh13github/x_data_analysis)
 - Developed a distributed NLP pipeline to collect 42M+ tweets, analyze, and visualize data across multiple stages (data collection with Selenium, NLTK, RegEx, sentiment classification, visualization with Plotly).
   
 ### [AI-Based Symptom Detector]
