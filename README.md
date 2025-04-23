@@ -20,7 +20,7 @@ I’m a software engineer with a focus on AI, machine learning, distributed syst
 ### [AI-Based Symptom Detector](https://github.com/nilesh13github/International_innovation_chellange_2024_vaidyan)
 - Architected an AI system using a fine-tuned Mistral-7 B-Instruct LLM combined with FAISS vector search and embedding pipelines (Sentence Transformers), deployed on cloud infrastructure.
 
-### [Web-Based Facial Authentication with Anti-Spoofing System]
+### [Web-Based Facial Authentication with Anti-Spoofing System](https://github.com/nilesh13github/Web-Based_Facial_Authentication_System)
 - Developed a facial authentication system using TensorFlow, OpenCV, and MediaPipe for secure logins, achieving over 97% recognition accuracy.
 
 ## 🎓 Certifications
