@@ -1,7 +1,6 @@
-
-<table>
+<table style="border: none;">
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/f1da963d-bede-4674-8ff1-61460abeea98" alt="zanathus-spider-gif" width="240" border = "none"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f1da963d-bede-4674-8ff1-61460abeea98" alt="zanathus-spider-gif" width="240"/></td>
   </tr>
 </table>
 
