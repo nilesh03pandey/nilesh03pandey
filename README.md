@@ -1,8 +1,10 @@
 
-![zanathus-spider-gif](https://github.com/user-attachments/assets/f1da963d-bede-4674-8ff1-61460abeea98)
-
-
-## In a web of data and deception...
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f1da963d-bede-4674-8ff1-61460abeea98" alt="zanathus-spider-gif" width="120"/></td>
+    <td><strong>In a web of data and deception...</strong></td>
+  </tr>
+</table>
 
 
 # Hi, I'm Nilesh Pandey!
