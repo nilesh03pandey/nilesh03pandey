@@ -1,5 +1,6 @@
 
-![spider-man](https://github.com/user-attachments/assets/6efd83f8-ad26-43b7-b6f3-f1f16857ca78)
+![zanathus-spider-gif](https://github.com/user-attachments/assets/f1da963d-bede-4674-8ff1-61460abeea98)
+
 
 ## In a web of data and deception...
 
