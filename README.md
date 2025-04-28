@@ -18,7 +18,7 @@ I’m a software engineer focusing on AI, machine learning, distributed systems,
 - **Tools & Platforms**: Git, GitHub, Hugging Face, Google Cloud, AWS
 - **Soft Skills**: Documentation, teamwork, project planning
 
-## 📝 Recent Projects
+## Recent Projects
 ### [Twitter-Based Mental Health Crisis Detection](https://github.com/nilesh13github/x_data_analysis)
 - Developed a distributed NLP pipeline to collect 42M+ tweets, analyze, and visualize data across multiple stages (data collection with Selenium, NLTK, RegEx, sentiment classification, visualization with Plotly).
   
