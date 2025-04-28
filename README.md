@@ -5,9 +5,9 @@
 
 # Hi, I'm Nilesh Pandey!
 
-I’m a software engineer with a focus on AI, machine learning, distributed systems, and cybersecurity.
+I’m a software engineer focusing on AI, machine learning, distributed systems, and cybersecurity.
 
-## 🚀 Technical Skills
+## Technical Skills
 - **Programming & Databases**: Python, Rust, C++, Java, SQL, MySQL, PostgreSQL, MongoDB, VectorDB, ChromaDB
 - **Analytics & Visualization**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Tableau (basic), Power BI (basic)
 - **Machine Learning & AI**: Deep Learning, NLP, Transformers, LLMs, GANs, Reinforcement Learning, Forecasting Models, Statistical Analysis, Hypothesis Testing
