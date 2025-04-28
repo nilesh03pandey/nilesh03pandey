@@ -38,5 +38,5 @@ I’m a software engineer with a focus on AI, machine learning, distributed syst
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilesh13github&show_icons=true&hide_title=true)
 
 
-## 🌱 Let's Connect
+## Let's Connect
 - [LinkedIn](https://linkedin.com/in/nilesh-pandey-ai-sec/)
