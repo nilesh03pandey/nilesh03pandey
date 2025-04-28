@@ -28,7 +28,7 @@ I’m a software engineer focusing on AI, machine learning, distributed systems,
 ### [Web-Based Facial Authentication with Anti-Spoofing System](https://github.com/nilesh13github/Web-Based_Facial_Authentication_System)
 - Developed a facial authentication system using TensorFlow, OpenCV, and MediaPipe for secure logins, achieving over 97% recognition accuracy.
 
-## 🎓 Certifications
+##  Certifications
 - **Certified Ethical Hacker (CEHv12)** - EC-Council
 - **Generative AI** - IBM
 - **Data Science: Transformers and Natural Language Processing** - Udemy
