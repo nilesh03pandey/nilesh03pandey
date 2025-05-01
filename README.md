@@ -7,14 +7,6 @@
 
 I’m a software engineer focusing on AI, machine learning, distributed systems, and cybersecurity.
 
-## Technical Skills
-- **Programming & Databases**: Python, Rust, C++, Java, SQL, MySQL, PostgreSQL, MongoDB, VectorDB, ChromaDB
-- **Analytics & Visualization**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Tableau (basic), Power BI (basic)
-- **Machine Learning & AI**: Deep Learning, NLP, Transformers, LLMs, GANs, Reinforcement Learning, Forecasting Models, Statistical Analysis, Hypothesis Testing
-- **Frameworks & Tools**: TensorFlow, PyTorch, Keras, FastAI, Flask, FastAPI, Streamlit, LangChain, SentenceTransformers, Hugging Face, vLLM, AirLLM
-- **Big Data & Processing**: PySpark, batch processing, vector search
-- **Networking**: HTTP, HTTPS, REST APIs, Flask, FastAPI, client-server architecture, TCP/IP
-
 ## Recent Projects
 ### [Twitter-Based Mental Health Crisis Detection](https://github.com/nilesh13github/x_data_analysis)
 - Developed a distributed NLP pipeline to collect 42M+ tweets, analyze, and visualize data across multiple stages (data collection with Selenium, NLTK, RegEx, sentiment classification, visualization with Plotly).
