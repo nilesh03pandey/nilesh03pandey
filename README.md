@@ -14,9 +14,6 @@ I’m a software engineer focusing on AI, machine learning, distributed systems,
 - **Frameworks & Tools**: TensorFlow, PyTorch, Keras, FastAI, Flask, FastAPI, Streamlit, LangChain, SentenceTransformers, Hugging Face, vLLM, AirLLM
 - **Big Data & Processing**: PySpark, batch processing, vector search
 - **Networking**: HTTP, HTTPS, REST APIs, Flask, FastAPI, client-server architecture, TCP/IP
-- **Operating Systems**: Linux, Windows
-- **Tools & Platforms**: Git, GitHub, Hugging Face, Google Cloud, AWS
-- **Soft Skills**: Documentation, teamwork, project planning
 
 ## Recent Projects
 ### [Twitter-Based Mental Health Crisis Detection](https://github.com/nilesh13github/x_data_analysis)
