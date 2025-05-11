@@ -23,9 +23,5 @@ I’m a 4th year B.Tech CSE student focusing on AI, machine learning, distribute
 - **Data Science: Transformers and Natural Language Processing** - Udemy
 - **Bits and Bytes of Networking** - Shounak Saha (Coursera)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilesh13github&show_icons=true&hide_title=true)
-
-
 ## Let's Connect
 - [LinkedIn](https://linkedin.com/in/nilesh-pandey-ai-sec/)
