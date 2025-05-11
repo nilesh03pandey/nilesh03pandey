@@ -27,10 +27,5 @@ I’m a 4th year B.Tech CSE student focusing on AI, machine learning, distribute
 ## Let's Connect
 - [LinkedIn](https://linkedin.com/in/nilesh-pandey-ai-sec/)
 
-  ## Stats
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/nilesh13github/github-stats/master/generated/languages-dark.svg" media="(prefers-color-scheme: dark)">
-    <source srcset="https://raw.githubusercontent.com/nilesh13github/github-stats/master/generated/languages-light.svg" media="(prefers-color-scheme: light)">
-    <img src="https://raw.githubusercontent.com/nilesh13github/github-stats/master/generated/languages-light.svg" alt="Top Languages">
-  </picture>
+
 
