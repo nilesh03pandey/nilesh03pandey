@@ -5,7 +5,7 @@
 
 # Hi, I'm Nilesh Pandey!
 
-I’m a 4th year B.Tech CSE student focusing on AI, machine learning, distributed systems, and cybersecurity.
+I’m a 4th-year B.Tech CSE student focusing on AI, machine learning, distributed systems, and cybersecurity.
 
 ## Recent Projects
 ### [Twitter-Based Mental Health Crisis Detection](https://github.com/nilesh13github/x_data_analysis)
