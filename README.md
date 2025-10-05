@@ -26,25 +26,19 @@
       onmouseout="this.style.transform='scale(1)'"
     />
 
-    <!-- Top Languages Card -->
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=nilesh03pandey&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=5&border_radius=10&show_icons=true&locale=en&size=90"
-      alt="Nilesh's Most Used Languages"
-      style="max-width: 100%; height: 200px; width: auto; border-radius: 10px; transition: transform 0.3s; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"
-      onmouseover="this.style.transform='scale(1.05)'"
-      onmouseout="this.style.transform='scale(1)'"
-    />
+<!-- Top Languages Card -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=nilesh03pandey&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=5&border_radius=10&show_icons=true&locale=en"
+  alt="Nilesh's Most Used Languages"
+  style="max-width: 100%; height: 200px; width: auto; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"
+/>
 
-    <!-- Streak Stats Card -->
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=nilesh03pandey&theme=onedark&border_radius=10"
-      alt="Nilesh's Contribution Streak"
-      style="max-width: 100%; height: 200px; width: auto; border-radius: 10px; transition: transform 0.3s; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"
-      onmouseover="this.style.transform='scale(1.05)'"
-      onmouseout="this.style.transform='scale(1)'"
-    />
-  </div>
-
+<!-- Streak Stats Card -->
+<img
+  src="https://streak-stats.demolab.com/?user=nilesh03pandey&theme=onedark&border_radius=10"
+  alt="Nilesh's Contribution Streak"
+  style="max-width: 100%; height: 200px; width: auto; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"
+/>
   <!-- Trophies Card -->
   <div style="margin: 20px 0;">
     <img
