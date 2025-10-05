@@ -83,19 +83,5 @@
     </a>
   </div>
 
-  <!-- Responsive Media Query -->
-  <style>
-    @media (max-width: 768px) {
-      div[style*="display: flex"] {
-        flex-direction: column !important;
-        align-items: center !important;
-        height: auto !important;
-        padding: 10px;
-      }
-      img {
-        width: 100% !important;
-        height: auto !important;
-      }
-    }
-  </style>
+
 </div>
