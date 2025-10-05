@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/f1da963d-bede-4674-8ff1-61460abeea98" alt="zanathus-spider-gif" width="240"/></td>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nilesh03github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## <strong>In a web of data and deception...</strong>
 
