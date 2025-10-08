@@ -79,7 +79,7 @@
         src="https://github-readme-activity-graph.vercel.app/graph?username=nilesh03pandey&theme=react-dark&hide_border=true"
         alt="Nilesh's GitHub Activity Graph"
         style="max-width: 100%; width: auto;"
-      />
+       />
     </a>
   </div>
 
