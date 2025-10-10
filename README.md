@@ -51,13 +51,7 @@
     />
   </div>
 
-  <!-- Custom Divider -->
-  <hr style="border: 0; height: 2px; background: linear-gradient(to right, #00acc1, #26a69a); margin: 20px auto; width: 50%;" />
-
   <!-- Profile Intro -->
-  <h2 style="font-family: 'Arial', sans-serif; font-size: 28px; font-weight: bold; color: #006064; text-shadow: 1px 1px 2px rgba(0,0,0,0.1); margin: 20px 0;">
-    In a web of data and deception...
-  </h2>
   <h1 style="font-family: 'Arial', sans-serif; font-size: 36px; font-weight: bold; color: #004d40; margin: 10px 0;">
     Hi, I'm Nilesh Pandey! 👋
   </h1>
