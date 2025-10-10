@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=nilesh03pandey)
+
 
 [![Visit Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge)](https://nilesh03pandey.github.io)
 
@@ -82,5 +82,6 @@
     </a>
   </div>
 
-
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nilesh03pandey)
