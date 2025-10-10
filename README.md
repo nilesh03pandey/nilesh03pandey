@@ -1,8 +1,5 @@
 [![Visit Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge)](https://nilesh03pandey.github.io)
 
-[![Website Preview](assets/preview.png)](https://nilesh03pandey.github.io)
-
-
 
 <div style="text-align: center; max-width: 100%; margin: 0 auto; padding: 20px;">
   <!-- Hidden Visitor Counter -->
