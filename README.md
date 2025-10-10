@@ -1,6 +1,6 @@
-[![Visit Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge)](https://nuilesh03pandey.github.io)
+[![Visit Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge)](https://nilesh03pandey.github.io)
 
-[![Website Preview](assets/preview.png)](https://nuilesh03pandey.github.io)
+[![Website Preview](assets/preview.png)](https://nilesh03pandey.github.io)
 
 
 
