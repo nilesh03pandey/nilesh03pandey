@@ -39,6 +39,8 @@
 
 <!-- Streak Stats Card -->
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nilesh03pandey&theme=dark" alt="GitHub Streak" /></a>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nilesh03pandey)](https://git.io/streak-stats)
 <img
   src="https://streak-stats.demolab.com/?user=nilesh03pandey)](https://git.io/streak-stats"
