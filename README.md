@@ -22,7 +22,6 @@
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   ">
-    <!-- GitHub Stats Card -->
     <img
       src="https://github-readme-stats.vercel.app/api?username=nilesh03pandey&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en&size=90"
       alt="Nilesh's GitHub Stats"
