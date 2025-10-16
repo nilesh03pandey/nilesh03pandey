@@ -55,7 +55,7 @@
 
   <!-- Profile Intro -->
   <h1 style="font-family: 'Arial', sans-serif; font-size: 36px; font-weight: bold; color: #004d40; margin: 10px 0;">
-    Hi, I'm Nilesh Pandey! 👋
+    Hi, I'm Nilesh Pandey!
   </h1>
   <p style="font-family: 'Arial', sans-serif; font-size: 18px; color: #37474f; max-width: 600px; margin: 10px auto;">
     I'm a 4th-year B.Tech CSE student passionate about AI, machine learning, distributed systems, and cybersecurity.
