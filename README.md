@@ -39,7 +39,7 @@
 
 <!-- Streak Stats Card -->
 <img
-  src="https://streak-stats.demolab.com/?user=nilesh03pandey&theme=onedark&border_radius=10"
+  src="https://streak-stats.demolab.com/?user=nilesh03pandey)](https://git.io/streak-stats"
   alt="Nilesh's Contribution Streak"
   style="max-width: 100%; height: 200px; width: auto; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"
 />
