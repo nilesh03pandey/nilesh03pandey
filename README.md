@@ -38,6 +38,8 @@
 />
 
 <!-- Streak Stats Card -->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nilesh03pandey)](https://git.io/streak-stats)
 <img
   src="https://streak-stats.demolab.com/?user=nilesh03pandey)](https://git.io/streak-stats"
   alt="Nilesh's Contribution Streak"
