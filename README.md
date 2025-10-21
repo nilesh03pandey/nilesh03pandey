@@ -1,84 +1,63 @@
 
 
-[![Visit Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge)](https://nilesh03pandey.github.io)
+<div align="center" style="max-width:900px;margin:0 auto;padding:18px;border-radius:14px;box-shadow:0 8px 24px rgba(2,6,23,0.08);background: linear-gradient(135deg,#f5fbff,#eef7ff);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial;">
 
+  <!-- Header / Badge -->
+  <p style="margin:0 0 12px 0;">
+    <a href="https://nilesh03pandey.github.io" target="_blank" rel="noopener noreferrer">
+      <img alt="Visit Website" src="https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" style="vertical-align:middle;" />
+    </a>
+  </p>
 
-<div style="text-align: center; max-width: 100%; margin: 0 auto; padding: 20px;">
-  <!-- Hidden Visitor Counter -->
-  <img src="https://kv.jobleap4u.com/nilesh03pandey-count" style="width: 0; height: 0; border: none; display: block;" alt="" />
+  <!-- Name & Intro -->
+  <h1 style="margin:6px 0 6px 0;font-size:30px;color:#0b3d91;line-height:1.05;">Hi, I'm <span style="color:#0d6efd;">Nilesh Pandey</span> <span aria-hidden="true">👋</span></h1>
+  <p style="margin:0 0 16px 0;color:#22303f;max-width:760px;font-size:15px;">4th-year B.Tech CSE student at Vellore Institute of Technology, building things in <strong>AI · ML · Distributed Systems · Cybersecurity</strong>. I focus on practical, well-tested systems and clean code.</p>
 
-  <!-- Flexbox Container for Cards -->
-  <div style="
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    gap: 20px;
-    flex-wrap: wrap;
-    height: auto;
-    max-width: 100%;
-    margin: 20px auto;
-    padding: 15px;
-    background: linear-gradient(135deg, #e0f7fa, #b2ebf2);
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  ">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=nilesh03pandey&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en&size=90"
-      alt="Nilesh's GitHub Stats"
-      style="max-width: 100%; height: 200px; width: auto; border-radius: 10px; transition: transform 0.3s; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"
-      onmouseover="this.style.transform='scale(1.05)'"
-      onmouseout="this.style.transform='scale(1)'"
-    />
+  <div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:flex-start;max-width:100%;">
 
-<!-- Top Languages Card -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=nilesh03pandey&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=5&border_radius=10&show_icons=true&locale=en"
-  alt="Nilesh's Most Used Languages"
-  style="max-width: 100%; height: 200px; width: auto; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"
-/>
-
-<!-- Streak Stats Card -->
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nilesh03pandey&theme=dark" alt="GitHub Streak" /></a>
-
-  <!-- Trophies Card -->
-  <div style="margin: 20px 0;">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=nilesh03pandey&theme=onedark&no-frame=true&margin-w=10&column=4&row=2"
-      alt="Nilesh's GitHub Trophies"
-      style="max-width: 100%; width: auto; border-radius: 10px;"
-    />
+  <table align="center">
+    <tr>
+      <td align="center" width="33%">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nilesh03pandey&show_icons=true&theme=transparent&hide_border=true" />
+      </td>
+      <td align="center" width="33%">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilesh03pandey&layout=compact&langs_count=6&theme=transparent&hide_border=true" />
+      </td>
+      <td align="center" width="33%">
+        <img alt="Streak Stats" src="https://streak-stats.demolab.com?user=nilesh03pandey&theme=dark&hide_border=true" />
+      </td>
+    </tr>
+  </table>
   </div>
 
-  <!-- Profile Intro -->
-  <h1 style="font-family: 'Arial', sans-serif; font-size: 36px; font-weight: bold; color: #004d40; margin: 10px 0;">
-    Hi, I'm Nilesh Pandey!
-  </h1>
-  <p style="font-family: 'Arial', sans-serif; font-size: 18px; color: #37474f; max-width: 600px; margin: 10px auto;">
-    I'm a 4th-year B.Tech CSE student passionate about AI, machine learning, distributed systems, and cybersecurity.
-  </p>
+  <div style="margin-top:14px;display:flex;justify-content:center;">
+    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=nilesh03pandey&theme=algolia&no-frame=true&margin-w=10&column=5" style="max-width:100%;height:auto;border-radius:10px;box-shadow:0 6px 18px rgba(13,38,77,0.06);" />
+  </div>
 
-  <!-- Let's Connect Section -->
-  <h3 style="font-family: 'Arial', sans-serif; font-size: 24px; font-weight: bold; color: #006064; margin: 20px 0;">
-    Let's Connect 🌐
-  </h3>
-  <p style="font-family: 'Arial', sans-serif; font-size: 16px; color: #37474f;">
-    <a href="https://linkedin.com/in/nilesh-pandey-ai-sec/" style="text-decoration: none; color: #0288d1;">
-      🔗 LinkedIn
+  <div style="margin-top:14px;display:flex;gap:10px;justify-content:center;align-items:center;flex-wrap:wrap;">
+    <a href="https://linkedin.com/in/nilesh-pandey-ai-sec/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nilesh%20Pandey-blue?style=for-the-badge&logo=linkedin" />
     </a>
-  </p>
+    <a href="mailto:pandeynilesh325a@gmail.com" style="text-decoration:none;">
+      <img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+    </a>
+    <a href="https://nilesh03pandey.github.io/resume.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+      <img alt="Resume" src="https://img.shields.io/badge/Resume-Download-gray?style=for-the-badge&logo=adobe" />
+    </a>
+  </div>
 
   <!-- Activity Graph -->
-  <div style="margin: 20px 0;">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=nilesh03pandey&theme=react-dark&hide_border=true"
-        alt="Nilesh's GitHub Activity Graph"
-        style="max-width: 100%; width: auto;"
-       />
+  <div style="margin-top:14px;max-width:820px;">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank" rel="noopener noreferrer">
+      <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nilesh03pandey&theme=react-dark&hide_border=true&area=true" style="width:100%;height:auto;border-radius:8px;box-shadow:0 6px 18px rgba(13,38,77,0.06);display:block;" />
     </a>
+  </div>
+
+  <!-- Small footer: profile views + hidden counter (kept tiny) -->
+  <div style="margin-top:12px;display:flex;gap:8px;align-items:center;justify-content:center;flex-wrap:wrap;">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=nilesh03pandey&color=blue&style=flat-square" style="border-radius:6px;" />
+    <img src="https://kv.jobleap4u.com/nilesh03pandey-count" width="1" height="1" alt="" style="opacity:0;pointer-events:none;" />
   </div>
 
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nilesh03pandey)
