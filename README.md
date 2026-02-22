@@ -316,7 +316,6 @@ print(me.fun_fact())
 
 [![Email](https://img.shields.io/badge/pandeynilesh325a%40gmail.com-000?style=for-the-badge&logo=gmail&logoColor=ff006e&labelColor=0a1628)](mailto:pandeynilesh325a@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0a1628)](https://www.linkedin.com/in/nilesh-pandey-ai-sec/)
-[![GitHub](https://img.shields.io/badge/nilesh03pandey-000?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1628)](https://github.com/nile649)
 
 </div>
 
