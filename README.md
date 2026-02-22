@@ -1,9 +1,3 @@
-# README.md for nile649 GitHub Profile
-
-<!-- ████████████████████████████████████████████████████████████████████████ -->
-<!-- PASTE EVERYTHING BELOW THIS LINE INTO YOUR README.md                    -->
-<!-- ████████████████████████████████████████████████████████████████████████ -->
-
 <div align="center">
 
 <!-- ANIMATED SVG HEADER BANNER -->
